@@ -77,6 +77,6 @@ require.config({
   }
 });
 
-require(['sbow'],function(App){
+require(['show'],function(App){
     App.initialize();
 });
